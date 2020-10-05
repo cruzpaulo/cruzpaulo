@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Paulo from Brazil, ADVPL developer learning the dark arts of front end developement.
+I'm Paulo from Brazil, ADVPL developer learning the dark arts of front end development.
 
 <!--
 **cruzpaulo/cruzpaulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
